@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(rmarkdown)
 library(tidyverse)
 library(dplyr)
-``` 
+```
 ----------------
 </br>
 
@@ -101,8 +101,12 @@ Nowacek Bioacoustics and Engineering Lab, Duke University
 </span>
 </p>
 
-- Wildlife and Offshore Wind (WOW) project support by coordinating and collaborating with partners and offshore wind energy companies to understand the potential effects that offshore wind energy may have on marine wildlife
-- Sea turtle auditory evoked potential testing to evaluate sea turtle hearing ranges
+- Wildlife and Offshore Wind (WOW) project support by coordinating with partners and offshore wind energy companies to understand the potential effects that offshore wind energy may have on marine wildlife
+- WordPress and Adobe Photoshop engagement for WOW web pages and social media updates
+- Global Alliance for Managing Ocean Noise (GAMeON) documentation and collaboration with organizations and entities to develop synergies in ocean noise management
+- Sea turtle auditory evoked potential tests to evaluate sea turtle hearing ranges
+- GIS mapping, spatial optimization, and analyzing marine mammal spatial distribution along the US East Coast using ArcGIS Pro
+
 
 <br/>
 

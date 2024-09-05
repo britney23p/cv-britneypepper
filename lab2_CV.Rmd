@@ -1,0 +1,136 @@
+---
+title: "Lab 2 - CV"
+author: "Britney Pepper"
+output: html_document
+date: "2024-09-05"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(rmarkdown)
+library(tidyverse)
+library(dplyr)
+``` 
+----------------
+</br>
+
+<center> **Britney Elizabeth Pepper** </center>
+<center> 618 East Pointe Drive, Ithaca, NY 14850 </center>
+<center> britney.pepper@outlook.com | www.linkedin.com/in/britney-pepper | (901) 359-8228 | U.S. Citizen </center>
+
+</br>
+
+
+**EDUCATION**
+
+</br>
+
+<p style="text-align:left;">
+Cornell University
+<span style="float:right;"> *August 2024 - Expected May 2029*
+</span>
+</p>
+
+- Ph.D. Natural Resources
+
+</br>
+
+<p style="text-align:left;">
+Duke University
+<span style="float:right;"> *August 2021 - May 2023*
+</span>
+</p>
+
+- Master of Environmental Management
+
+- Concentration: Coastal Environmental Management
+
+- Geospatial Analysis Certificate
+
+- *Master’s Project*: Passive Acoustic Monitoring of Fin Whales (*Balaenoptera physalus*) Near Offshore Wind Farm Areas off the Coast of New Jersey
+
+<br/>
+
+<p style="text-align:left;">
+University of Georgia 
+<span style="float:right;"> *August 2017 - May 2021*
+</span>
+</p>
+
+- B.S. Biology - Emphasis in Marine Biology
+
+- Minor in Horticulture
+
+<br/>
+<br/>
+
+**WORK & EXPERIENCE**
+
+<br/>
+
+<p style="text-align:left;">
+Astor Environmental, LLC. 
+<span style="float:right;"> *Remote*
+</span>
+</p>
+
+<p style="text-align:left;">
+*Office of Protected Resources Analyst II*
+<span style="float:right;"> *December 2023 - July 2024*
+</span>
+</p>
+
+- Contractor in support of the National Marine Fisheries Service's Office of Protected Resources for the Alaska Regional Office
+- Endangered Species Act Section 7 consultation and compliance
+- Conduct research and analysis to provide biological assessments and opinions of proposed actions on endangered species and their critical habitat by evaluating the consequences of these actions
+- Work with action agencies to ensure efficient and effective consultation
+- Provide reasonable and prudent alternative and conservation recommendations to the action agencies
+
+
+<br/>
+
+<p style="test-align:left;">
+Nowacek Bioacoustics and Engineering Lab, Duke University
+<span style="float:right;"> *Beaufort, NC*
+</span>
+</p>
+
+<p style="test-align:left;">
+*Research Technician*
+<span style="float:right;"> *June 2023 - December 2023*
+</span>
+</p>
+
+- Wildlife and Offshore Wind (WOW) project support by coordinating and collaborating with partners and offshore wind energy companies to understand the potential effects that offshore wind energy may have on marine wildlife
+- Sea turtle auditory evoked potential testing to evaluate sea turtle hearing ranges
+
+<br/>
+
+<p style="test-align:left;">
+Sarasota Dolphin Research Program (CZS - SDRP) at Mote Marine Laboratory
+<span style="float:right;"> *Sarasota, FL*
+</span>
+</p>
+
+<p style="test-align:left;">
+*Intern*
+<span style="float:right;"> *June 2020 - August 2020*
+</span>
+</p>
+
+- Studied the presence, ranging patters, social associations, and human interactions with bottlenose dolphins
+- Assisted with field photo identifications surveys and lab projects using GIS for tracking and location
+
+</br>
+
+**PUBLICATIONS**
+
+</br>
+
+1. Pepper, B.E., Piscitelli-Doshkov, M.A., Doshkov, P.K., & Read A.J. (2024) Heading South for the Winter: The Seasonal Occurance of Harbor Seals (*Phoca vitulina*) Near Oregon Inlet, North Carolina, USA. *Aquatic Mammals*, 50(2), 86-92.
+
+<br/>
+
+**LEADERSHIP & ACTIVITIES**
+
+<br/>
